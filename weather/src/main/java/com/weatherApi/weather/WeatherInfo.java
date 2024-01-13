@@ -25,5 +25,5 @@ public class WeatherInfo {
         this.lat = lat;
     }
 
-    // Add getters and setters if necessary
+   
 }
