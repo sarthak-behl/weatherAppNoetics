@@ -1,0 +1,9 @@
+// WeatherNotFoundException.java
+
+package com.weatherApi.weather;
+
+public class WeatherNotFoundException extends Exception {
+    public WeatherNotFoundException(String message) {
+        super(message);
+    }
+}
